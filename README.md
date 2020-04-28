@@ -11,7 +11,9 @@ const (
 ```
 
 ## Usage
-
 execute:
-`go run .`
+
+```
+go run .
+```
 
