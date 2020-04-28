@@ -1,10 +1,10 @@
 # tcp_sample
 
 ## Config
-
+config movie http apiKeyT
 ```
 const (
-  addr    = ""  
+  addr    = "0.0.0.0"  
   port    = 8000   
   apiKeyT = ""  
 )
